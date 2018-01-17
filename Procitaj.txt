@@ -1,0 +1,6 @@
+U koliko niste na webu,vec projekat pregledate offline , molim vas ukljucite xammp , i pocnite od index.html
+
+-Search Enginee nije u funkciji,kliknite samo Search ... 
+
+
+-Developer Milan Pantelic
